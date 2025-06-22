@@ -265,8 +265,9 @@ span {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    gap: 1rem;
+    gap: 5rem;
     font-family: 'Roboto-Regular';
+    text-align: justify;
 }
 
 .formulario {
